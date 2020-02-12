@@ -1,0 +1,5 @@
+li=list(range(6))
+li2=list(range(7))
+print(str(li))
+print(str(li2))
+print(type(li))
